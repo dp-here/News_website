@@ -1,0 +1,17 @@
+.head h1{
+display: block;
+color: blue;
+font-weight: bolder;
+text-decoration: underline;
+padding-bottom: 10px;
+text-align: center;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.head{
+    background-color: rgb(250, 201, 95);
+    border: 2px outset black;
+    width: 100%;
+    overflow: hidden;
+}
